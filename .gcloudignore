@@ -1,0 +1,16 @@
+.git
+.vscode/
+node_modules/
+src/
+test/
+.gcloudignore
+.gitignore
+.prettierrc
+environments/prod.yaml
+environments/test.yaml
+nest-cli.json
+package-lock.json
+README.md
+tsconfig.build.json
+tsconfig.json
+tslint.json

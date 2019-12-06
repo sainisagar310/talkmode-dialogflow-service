@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "grapeseed-teacher",
+    "private_key_id": "1d8f72f37e8134a5d9c47c761c100a6cf87269d8",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC61PjXjnewTWAe\nB4Zfts2pnEMY58bxiYQQ8YiHDHnZ6E8slHCBDY+vV15/fyNb5QTbpOio7T779aXx\nH+bQ8+OMaVbInIqeorA2Lhc01c38QOnOyiC3WKt9VCZy9hvKRmOm5S7c/BsyQksB\no1KpXEudii92Y+WkwjFw9be2HwkOqHUgIuVdxdltz1hsiy1mKbIyR+BhFFoClHTy\nCyRqY8ynz/dFFK38TXNPqxnYQeZh+v9662+U+9m7ML3iFUC/gtbO6b4+pDgZkV9R\nn62xDbhNnZgH49C5IZi8bn5Eef9rrOGqXKyCFK4atf0AtiOCFDI6hmqydFhW+Fib\nW6z5qrutAgMBAAECggEAAlYO1L1+cl8zxqbQA2ORr6lFuNH7vHNBYtQBa5cJoqKe\nfXC7zj/EVb13/p/xLv7OjxIopSV9iCW+8j0XDfyNzV656D/sZKhgPR4esTRXlub+\nqSOK7iWEhW/hL5WMHiRxEKtRPLcx6o4t2OKbj9OxaG+kY7Z+LsDIfkpt0Eidy1uC\niYqX3nGZ3+8iWLtAJM3nK0sI9hLrHBW1DQkCKVusjvrysJktETDo3O/0spXZ9+kZ\nBBGemWfJ8ijuccCYllvjo88vcfStdUPoKslD1oGNyQxPV8R1wpVdeDyqxlWgtXJQ\nXqD+lz0cZ8U0cLY7fKesUIDbKIeSoub/lF5/HrJcUQKBgQDcTTkEagqc2MmZByCh\nBDdKoa+/ID71QgOmjhvwkT4n7U7psuzpBqO/vEqtNLDaNc1UyGGFVmnXzbAvVvy3\nXk7ZSvxA7i707xUdYNE79JnWhoAN/k3BoXTK0XHIDB3BfCtzQ4cXYme5rhBSqPLJ\nULHSxrzF4D8l8wZd73c3QZn7PQKBgQDZG1LuS5ntaNiacAZ1m9z3Q66MemfRhia6\n/ozjMkjR2eQ9GzMXCMlEK9thhKFgl9AqBIFtizUovAtSpQku8B/JiTiL6R6qlHJg\n1M1og5OvXdhiXpIRPdshS4D+mUTE15IFf2GupKA6Use8CwdZjiUflDMAfXcQ4EJz\nNmD85paJMQKBgGI0rokwOGDpJx1nlv0QYxGK+ExsNISik/wId54LMTkdScNWNtQ+\nWHrdljCWP4xW1ZzI4uhMuEwybir8TRX1HZMyITdUtmwLtE7vXPasOHPwa19RkRoT\nPnw3V9CEzjL1hm0QmkUrYe/dD3u5wtlJdqvuWjKfn6bsKldvq6ZfQSRFAoGATyXa\n8ey1zQswC/1THYUY5TvTYnstZgEWFY2/JwSp73cT8gL8eSVG2odyjvafLmuqA+do\nl9rsIlGLfzGTS31W2U4hQ0BVYbKEkDCEQdnV+VSpEhOQBKEcReMUv7x4iZpdLYvm\nvJhfoWOUVUVgBJIBjqWkgkU7Jvfawc3NReV6c8ECgYEAh9NhQJcB8YlRcvtjdrQP\nKmU2cUd6UTCYeIJODPMB1090R1uB2zaHkuq9SQYu823/ly916s2B4iBejcyQYI96\nxdBAEfhC3EYrsTYnBd7C7sxTQyl8P4QnLzBtCQF6oCzOHGs0pjVJqvs6uqMZRrrx\naCo077qzMxAseXeMV6PTeWY=\n-----END PRIVATE KEY-----\n",
+    "client_email": "dialogflow-client-2@grapeseed-teacher.iam.gserviceaccount.com",
+    "client_id": "100838094036050495743",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-client-2%40grapeseed-teacher.iam.gserviceaccount.com"
+  }
+  
